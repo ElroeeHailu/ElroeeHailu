@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elroee Hailu (@ElroeeHailu)
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning CSS and Java script
+- 🌱 I’m currently learning CSS and JavaScript
 - 📫 How to reach me : ehailu@uwsuper.edu
 - ⚡ Fun fact: I think c# is the best programming language.
 
